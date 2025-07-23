@@ -197,7 +197,7 @@ main {
 
 .attribution { 
     position: absolute;
-    bottom: -800;
+    bottom: -1067px;
     left: 50%;
     transform: translateX(-50%);
     font-size: 11px; text-align: center; 
